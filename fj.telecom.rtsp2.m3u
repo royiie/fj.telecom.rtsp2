@@ -44,3 +44,7 @@ rtsp://27.148.219.129:554/live/ch17092208080814677315.sdp?playtype=1&boid=001&ba
 http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="求索生活" tvg-logo="" group-title="地方",求索生活(七台河移动)
 http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",百视通轮播1(福建移动8M)
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227134/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",电视剧3(福建移动8M)
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226708/index.m3u8
