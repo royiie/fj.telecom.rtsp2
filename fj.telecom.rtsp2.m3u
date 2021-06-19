@@ -58,3 +58,5 @@ http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226736/index.m
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226741/index.m3u8
 #EXTINF:-1 ,求索科学(鸡西移动8M)
 http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="超级电视剧" tvg-logo="" group-title="地方",超级电视剧(宜春移动8M)
+http://39.135.138.60:18890/PLTV/88888910/224/3221225765/index.m3u8
