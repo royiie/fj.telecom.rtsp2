@@ -9,6 +9,13 @@ http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226952/index.m
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",4K花园娱乐(南京移动24M) 卡
 http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
 
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z406133R5D0.jpg" group-title="地方",CHC高清电影(渭南移动8M)
+http://111.20.105.60:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z406134234147.jpg" group-title="地方",CHC动作电影(陕西移动8M)
+http://dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226465/index.m3u8
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭影院" tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z40613520I39.jpg" group-title="地方",CHC家庭影院(陕西移动8M)
+http://dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226462/index.m3u8
+
 #EXTINF:-1 ,tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="地方",欢笑剧场
 rtsp://27.148.219.129:554/live/ch16091400245502369823.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch16091400245502369823&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uZvV9XTe8u6npT%2BKUQeCTXXTpxLoLcVQ7fnEAZt1ZruktcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 #EXTINF:-1 ,tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="地方",欢笑剧场(杭州移动12M)
