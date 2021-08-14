@@ -18,7 +18,7 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225786/index.m3u8
 http://39.135.138.58:18890/PLTV/88888910/224/3221225786/index.m3u8
 
 
-#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z406133R5D0.jpg" group-title="地方",CHC高清电影(渭南移动8M)
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z406133R5D0.jpg" group-title="地方",CHC高清电影(渭南移动8M) 失效
 http://111.20.105.60:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z406134234147.jpg" group-title="地方",CHC动作电影(陕西移动8M) 失效
 http://dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226465/index.m3u8
@@ -27,10 +27,6 @@ http://dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226462/index.m3u8
 
 #EXTINF:-1 ,tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="地方",欢笑剧场
 rtsp://27.148.219.129:554/live/ch16091400245502369823.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch16091400245502369823&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uZvV9XTe8u6npT%2BKUQeCTXXTpxLoLcVQ7fnEAZt1ZruktcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-#EXTINF:-1 ,tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="地方",欢笑剧场(杭州移动12M)
-http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230739/index.m3u8
-#EXTINF:-1 ,tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="地方",欢笑剧场(南京移动12M)
-http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
 
 #EXTINF:-1 ,tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
 rtsp://27.148.219.129:554/live/ch15102717162086242155.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162086242155&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrnoE48cDP3VQ84hqDmstY5CtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=8000 RTSP/1.0
@@ -82,6 +78,8 @@ EXTINF:-1 ,tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/C
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv2/HD-8000k-1080P-cctv2
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV-3综艺(南京移动8M)
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv3/HD-8000k-1080P-cctv3
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV-3综艺(宜春移动8M)
+http://39.135.138.59:18890/PLTV/88888910/224/3221225634/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5体育(南京移动8M)
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv5/HD-8000k-1080P-cctv5
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6电影(南京移动8M)
@@ -90,17 +88,22 @@ http://183.207.248.71:80/cntv/live1/cctv-6/cctv-6
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv7/HD-8000k-1080P-cctv7
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV-8电视剧(南京移动8M)
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv8/HD-8000k-1080P-cctv8
-
 #EXTINF:-1 ,tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+体育赛事(南京移动8M)
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv05plus/HD-8000k-1080P-cctv05plus
-#EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="地方",SiTV全纪实(上海联通)
-http://140.207.241.2:8080/live/program/live/qjshd/4000000/mnf.m3u8
+
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5体育(宜春移动8M)
+http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6电影(宜春移动8M)
+http://39.135.138.59:18890/PLTV/88888910/224/3221225632/index.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7国防军事(宜春移动8M)
+http://39.135.138.59:18890/PLTV/88888910/224/3221225644/index.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV-8电视剧(宜春移动8M)
+http://39.135.138.59:18890/PLTV/88888910/224/3221225631/index.m3u8
+
+#EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="https://www.nettvpro.live/uploads/allimg/18/1-1P512164S50-L.jpg" group-title="地方",SiTV-11全纪实(陕西移动8M) 失效
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226580/index.m3u8
 #EXTINF:-1 ,tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7国防军事
 rtsp://27.148.219.129:554/live/ch17092208080814677315.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17092208080814677315&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ubp8oBukTMa0qFw9c8POQwJfeqIynThSnMQUlmZG4XzktcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-#EXTINF:-1 tvg-id="" tvg-name="求索动物" tvg-logo="" group-title="地方",求索动物(七台河移动)
-http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="求索生活" tvg-logo="" group-title="地方",求索生活(七台河移动)
-http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",百视通轮播1(福建移动8M)
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227134/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",电视剧3(福建移动8M)
