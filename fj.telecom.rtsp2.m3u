@@ -120,3 +120,5 @@ http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
 http://39.135.138.60:18890/PLTV/88888910/224/3221225765/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NewTV动画王国" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P42622491W48.jpg" group-title="地方",NewTV动画王国(南京移动4M) 黑莓动画
 http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NewTV中国功夫" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P423200320U1.jpg" group-title="地方",NewTV中国功夫(联通4M)
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5897056882324761054&livemode=1&stbId=4
