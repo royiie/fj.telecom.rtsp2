@@ -85,10 +85,25 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4中文国际(陕西移动12M) 失效
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8
+#EXTINF:-1 ,tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1综合(南京移动8M)
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv1/HD-8000k-1080P-cctv1
 EXTINF:-1 ,tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2财经(安康移动8M)
 http://39.134.24.24/PLTV/88888888/224/3221225831/index.m3u8
-#EXTINF:-1 ,tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+体育赛事
-rtsp://27.148.219.129:554/live/ch17092110522954055086.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17092110522954055086&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ucAZXezSI56bZH%2B0ekJWO3LhGOtm6HMBkO7D9Dxc9Kd8tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+EXTINF:-1 ,tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2财经(南京移动8M)
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv2/HD-8000k-1080P-cctv2
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV-3综艺(南京移动8M)
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv3/HD-8000k-1080P-cctv3
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5体育(南京移动8M)
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv5/HD-8000k-1080P-cctv5
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6电影(南京移动8M)
+http://183.207.248.71:80/cntv/live1/cctv-6/cctv-6
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7国防军事(南京移动12M)
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv7/HD-8000k-1080P-cctv7
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV-8电视剧(南京移动8M)
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv8/HD-8000k-1080P-cctv8
+
+#EXTINF:-1 ,tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+体育赛事(南京移动8M)
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv05plus/HD-8000k-1080P-cctv05plus
 #EXTINF:-1 ,tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视
 rtsp://27.148.219.129:554/live/ch18010423255574195595.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch18010423255574195595&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uXFx9rA7x0PJXOhSuStbriXgD1uF4Qnrn7rUlS3MhdE0tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=8000 RTSP/1.0
 #EXTINF:-1 ,tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
