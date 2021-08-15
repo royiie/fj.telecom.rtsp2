@@ -218,3 +218,5 @@ http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227018/index.m
 https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="6067" tvg-name="壹电视新闻台" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P4231R4102J.jpg" group-title="港澳台",壹电视新闻台(大阪亚马逊云4M)
 http://stream.nexttv.com.tw/n001/hd/live.m3u8
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P50H25930492.jpg" group-title="港澳台",VIU TV(香港2M 粤语)
+http://livetv.dnsfor.me:80/channel.20.m3u8
