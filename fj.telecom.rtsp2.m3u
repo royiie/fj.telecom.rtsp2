@@ -234,3 +234,5 @@ https://cdn.hkdtmb.com/hls/96/index.m3u8
 https://cdn.hkdtmb.com/hls/99/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",ViuTV Six英文(香港宽频4M)
 http://61.238.6.49:8000/bysid/96/96.mpeg
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",ViuTV(香港宽频4M)
+http://61.238.6.49:8000/bysid/99/99.mpeg
