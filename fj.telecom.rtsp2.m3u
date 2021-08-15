@@ -220,3 +220,5 @@ https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&r
 http://stream.nexttv.com.tw/n001/hd/live.m3u8
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P50H25930492.jpg" group-title="港澳台",VIU TV(香港2M 粤语)
 http://livetv.dnsfor.me:80/channel.20.m3u8
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P322210400B3.jpg" group-title="港澳台",翡翠台(香港2M)
+http://livetv.dnsfor.me:80/channel.18.m3u8
