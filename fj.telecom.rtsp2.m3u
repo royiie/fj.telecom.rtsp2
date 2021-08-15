@@ -12,6 +12,10 @@ http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/32212293
 http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",4K花园娱乐(南京移动24M) 卡
 http://223.110.243.150/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",4K花园(南京移动20M) 卡
+http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",咪咕4K(兰州移动32M) 卡
+http://39.134.39.39/PLTV/88888888/224/3221226227/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="纯享4K" tvg-logo="https://www.nettvpro.live/uploads/allimg/20/1-200614200Q30-L.jpg" group-title="地方",纯享 4K(福建移动16M)
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="纯享4K" tvg-logo="https://www.nettvpro.live/uploads/allimg/20/1-200614200Q30-L.jpg" group-title="地方",纯享 4K(宜春移动16M)
