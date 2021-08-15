@@ -214,3 +214,7 @@ http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5000000
 
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P604203405305.jpg" group-title="地方",湖南金鹰卡通(福建移动8M)
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227018/index.m3u8
+#EXTINF:-1 tvg-id="6048" tvg-name="三立都会台" tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z4211S31I47.jpg" group-title="港澳台",三立都会台(德克萨斯4m)
+https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="6067" tvg-name="壹电视新闻台" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P4231R4102J.jpg" group-title="港澳台",壹电视新闻台(大阪亚马逊云4M)
+http://stream.nexttv.com.tw/n001/hd/live.m3u8
