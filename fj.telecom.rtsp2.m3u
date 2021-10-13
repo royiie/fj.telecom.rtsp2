@@ -264,6 +264,20 @@ http://39.134.39.39/PLTV/88888888/224/3221226257/index.m3u8
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视(兰州移动8M)
 http://39.134.39.39/PLTV/88888888/224/3221226274/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettvpro.live/uploads/allimg/20/1-2010041603070-L.jpg" group-title="地方",北京IPTV 4K(北京移动20M)
+http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
+http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z406133R5D0.jpg" group-title="地方",CHC高清电影(陕西移动8M)
+http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+#EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z4141J20T52.jpg" group-title="央视",CCTV-23怀旧剧场(贵阳移动8M)
+http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226097/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z4141G544918.jpg" group-title="央视",CCTV-28风云剧场(贵阳移动8M)
+http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226153/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z4141G505606.jpg" group-title="央视",CCTV-25风云音乐(贵阳移动8M)
+http://39.136.18.97:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226083/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="文化精品" tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z4141H1325H.jpg" group-title="央视",文化精品(贵阳移动8M)
+http://39.136.18.87:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226100/1/index.m3u8?fmt=ts2hls
+
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰卫视中文台
 rtsp://27.148.237.40:554/live/ch18011614354694706611.sdp?playtype=1&FccMediaIP=239.61.2.184&FccMediaPort=9092&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch18011614354694706611&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldSjARRpc9REGYzB%2FhQwKkqWPey0%2Fv1nMRKXHd4%2BU%2F%2FSV6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=8000&distype=0
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰卫视资讯台
