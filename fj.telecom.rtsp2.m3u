@@ -37,7 +37,32 @@ http://117.148.178.9/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/322123073
 http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230739/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettvpro.live/uploads/allimg/20/1-2010041603070-L.jpg" group-title="地方",北京IPTV 4K(北京移动20M) 失效
 http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
-
+#EXTINF:-1 tvg-id="6108" tvg-name="三立财经新闻台" tvg-logo="https://www.nettvpro.live/uploads/allimg/18/1-1P50H240550-L.jpg" group-title="港澳台",三立iNews新闻台(首尔2M)
+http://seb.sason.top/sc/slinews_fhd.m3u8
+#EXTINF:-1 tvg-id="6072" tvg-name="三立新闻台" tvg-logo="https://www.nettvpro.live/uploads/allimg/20/1-2002052044560-L.jpg" group-title="港澳台",三立Live新闻台(首尔2M) 
+http://seb.sason.top/sc/sllive_fhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="中天新闻台" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P503222359532.jpg" group-title="港澳台",中天新闻台(首尔2M)
+http://seb.sason.top/sc/ztxw_fhd.m3u8
+#EXTINF:-1 tvg-id="7176" tvg-name="中视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="港澳台",中视新闻台(首尔2M)
+http://seb.sason.top/sc/zsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="港澳台",台视新闻台(首尔2M)
+http://seb.sason.top/sc/tsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P50501142cC.jpg" group-title="港澳台",民视新闻台(首尔2M)
+http://seb.sason.top/sc/msxw_fhd.m3u8
+#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P50315591K62.jpg" group-title="港澳台",东森新闻台(首尔2M)
+http://seb.sason.top/sc/dsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="港澳台",东森财经新闻台(首尔2M)
+http://seb.sason.top/sc/dscjxw_fhd.m3u8
+#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P506204425640.jpg" group-title="港澳台",TVBS新闻台(加州2M)
+http://www.1314lm.com/mylive/102/2055/index.m3u8
+#EXTINF:-1 tvg-id="6074" tvg-name="TVBS" tvg-logo="https://www.nettvpro.live/uploads/18/1-1Q20Q3403A46.jpg" group-title="港澳台",TVBS(加州2M)
+http://www.1314lm.com/mylive/102/2056/index.m3u8
+#EXTINF:-1 tvg-id="6076" tvg-name="非凡新闻台" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P430225332926.jpg" group-title="港澳台",非凡新闻台(加州2M)
+http://www.1314lm.com/mylive/102/2055/index.m3u8
+#EXTINF:-1 tvg-id="6068" tvg-name="年代新闻台" tvg-logo="https://www.nettvpro.live/uploads/allimg/18/1-1PQ3234T00-L.jpg" group-title="港澳台",年代新闻台(加州2M)
+http://www.1314lm.com/mylive/102/2050/index.m3u8
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z51122051RT.jpg" group-title="地方",北京冬奥纪实(南京移动8M)
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-beijingjishi/HD-8000k-1080P-beijingjishi
 
 
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视(渭南移动12M)
@@ -272,7 +297,6 @@ http://39.134.39.39/PLTV/88888888/224/3221226274/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettvpro.live/uploads/allimg/20/1-2010041603070-L.jpg" group-title="地方",北京IPTV 4K(北京移动20M)
 http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
-http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z406133R5D0.jpg" group-title="地方",CHC高清电影(陕西移动8M)
 http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 #EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z4141J20T52.jpg" group-title="央视",CCTV-23怀旧剧场(贵阳移动8M)
